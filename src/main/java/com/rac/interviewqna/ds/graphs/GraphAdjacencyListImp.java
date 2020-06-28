@@ -1,6 +1,4 @@
-package com.rac.interviewqna.graphs;
-
-import sun.security.provider.certpath.AdjacencyList;
+package com.rac.interviewqna.ds.graphs;
 
 import java.util.LinkedList;
 
@@ -12,7 +10,6 @@ public class GraphAdjacencyListImp {
 
     private LinkedList[] adjacencyList;
     private int eagesCount;
-
 
     /**
      * By Initializing it we are creating a Array of size as numbersOfNodes in a graph
