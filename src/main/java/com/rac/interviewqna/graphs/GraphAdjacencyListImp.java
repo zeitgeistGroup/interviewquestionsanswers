@@ -4,8 +4,9 @@ import sun.security.provider.certpath.AdjacencyList;
 
 import java.util.LinkedList;
 
-/*
-implementation of Graph Adjacancy List
+
+/**
+ * GraphAdjacencyListImp.java: Basic implementation of graph with AdjacencyList
  */
 public class GraphAdjacencyListImp {
 
@@ -13,10 +14,14 @@ public class GraphAdjacencyListImp {
     private int eagesCount;
 
 
-
-    public GraphAdjacencyListImp(int node){
-        this.adjacencyList=new LinkedList[node];
-        for(int i=0;i<node;i++){
+    /**
+     * By Initializing it we are creating a Array of size as numbersOfNodes in a graph
+     * And impeded a Linked lists object to all the array location.
+     * @param numbersOfNodes
+     */
+    public GraphAdjacencyListImp(int numbersOfNodes){
+        this.adjacencyList=new LinkedList[numbersOfNodes];
+        for(int i=0;i<numbersOfNodes;i++){
             adjacencyList[i]=new LinkedList();
         }
     }
