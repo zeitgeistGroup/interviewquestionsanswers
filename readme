@@ -4,6 +4,8 @@ DS
 
 1.Arrays
 
+     S1.Move Zero
+
 2.LinedList
 
 3.Queues
@@ -14,6 +16,6 @@ DS
 
 6.Graph
 
-  1.GraphAdjacencyListImp.java: Basic implementation of graph with AdjacencyList
+    S1.GraphAdjacencyListImp.java: Basic implementation of graph with AdjacencyList
 
 
