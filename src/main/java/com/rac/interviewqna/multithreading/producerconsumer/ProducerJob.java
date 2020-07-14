@@ -1,4 +1,4 @@
-package com.rac.interviewqna.multithreading;
+package com.rac.interviewqna.multithreading.producerconsumer;
 
 import java.beans.IntrospectionException;
 import java.util.List;

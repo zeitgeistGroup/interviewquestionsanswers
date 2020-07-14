@@ -1,4 +1,4 @@
-package com.rac.interviewqna.multithreading;
+package com.rac.interviewqna.multithreading.producerconsumer;
 
 import java.util.List;
 

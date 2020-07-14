@@ -1,4 +1,7 @@
-package com.rac.interviewqna.multithreading;
+package com.rac.interviewqna.multithreading.producerconsumer;
+
+import com.rac.interviewqna.multithreading.producerconsumer.ConsumerJob;
+import com.rac.interviewqna.multithreading.producerconsumer.ProducerJob;
 
 import java.util.ArrayList;
 import java.util.List;
