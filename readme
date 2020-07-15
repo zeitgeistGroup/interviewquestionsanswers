@@ -28,3 +28,5 @@ multithreading
 1.ProducerConsumerDemo: java 8 version ProducerJob,ConsumerJob,Demo: normal
 
 2.ThreadPoolCustom: BlockingQueue,Demo,ThreadPoolCustom,ThreadPoolCustomThread
+
+3.SequenceOfThread (ABCABC..so on):
