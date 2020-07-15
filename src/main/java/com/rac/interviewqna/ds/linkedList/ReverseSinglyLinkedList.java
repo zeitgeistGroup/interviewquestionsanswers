@@ -54,12 +54,16 @@ public class ReverseSinglyLinkedList {
             SinglyLinkedListNode node1=new SinglyLinkedListNode(1);
             SinglyLinkedListNode node2=new SinglyLinkedListNode(2);
             SinglyLinkedListNode node3=new SinglyLinkedListNode(3);
+            SinglyLinkedListNode node4=new SinglyLinkedListNode(4);
+            SinglyLinkedListNode node5=new SinglyLinkedListNode(5);
 
 
 
             reverseSinglyLinkedList.head=node1;
             node1.next=node2;
             node2.next=node3;
+            node3.next=node4;
+            node4.next=node5;
             SinglyLinkedListNode current= reverseSinglyLinkedList.head=node1;
 
             System.out.println("normal list");
