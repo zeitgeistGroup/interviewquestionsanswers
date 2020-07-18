@@ -18,6 +18,7 @@ DS
 4.Stack
 
     S1. Valid Parentheses : SolutionValidParenthes
+    S2. Min Stack         : SolutionMinStack
 
 5.trees
 
