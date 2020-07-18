@@ -1,4 +1,4 @@
-package com.rac.interviewqna;
+package com.rac.interviewqna.ds.stacks;
 
 import java.util.Stack;
 
