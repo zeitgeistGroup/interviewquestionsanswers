@@ -3,7 +3,7 @@ package com.rac.interviewqna.multithreading.interthreadcomunication;
 /**
  * This class responsible for printing even and odd by wait notify method
  *
- * 
+ *
  */
 public class OddEvenExample {
 
