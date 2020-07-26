@@ -22,6 +22,8 @@ DS
 
 5.trees
 
+    M1.CustomTree: leftLeafSumOfThree, rightLeafSumOfThree, leftView, top view,  mirror image 
+
 6.Graph
 
     S1.GraphAdjacencyListImp.java: Basic implementation of graph with AdjacencyList
