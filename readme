@@ -14,6 +14,7 @@ DS
      S3.detecting Loop in Singly linked list  :DetectingLoop
      S4.delete given key from linked list: RemoveGivenKeyFromLinkedlist //make sure the previous element end edge case
      S5.Insert key from a sorted array :   InsertNodeInSortedLinkedList   //make sure the previous element end edge case
+     S6.Remove duplicate from sorted linked list :RemovceDupfromSortedLL
 
 
 3.Queues
