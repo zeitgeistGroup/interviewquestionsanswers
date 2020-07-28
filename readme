@@ -11,6 +11,7 @@ DS
 
      S1.Reverse singly LinkedList
      S2.Nth term from the end singly LinkedList
+     S3.detecting Loop in Singly linked list
 
 
 3.Queues
@@ -22,7 +23,7 @@ DS
 
 5.trees
 
-    M1.CustomTree: leftLeafSumOfThree, rightLeafSumOfThree, leftView, top view,  mirror image 
+    M1.CustomTree: leftLeafSumOfThree, rightLeafSumOfThree, leftView, top view,  mirror image
 
 6.Graph
 
