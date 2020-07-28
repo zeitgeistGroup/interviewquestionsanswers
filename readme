@@ -11,7 +11,8 @@ DS
 
      S1.Reverse singly LinkedList
      S2.Nth term from the end singly LinkedList
-     S3.detecting Loop in Singly linked list
+     S3.detecting Loop in Singly linked list  :DetectingLoop
+     S4.delete given key from linked list: RemoveGivenKeyFromLinkedlist
 
 
 3.Queues
