@@ -8,6 +8,7 @@ DS
      S2.VolesCount
      S3.ReverseString
      S4.ReverseWords
+     S5.check to String in rotation or not
 
 
 1.Arrays
