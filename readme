@@ -9,6 +9,7 @@ DS
      S3.ReverseString
      S4.ReverseWords
      S5.check to String in rotation or not
+     S6.Remove duplicate
 
 
 1.Arrays
