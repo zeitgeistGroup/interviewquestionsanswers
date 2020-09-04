@@ -15,6 +15,9 @@ public class NonRepeatingCharFinder {
 
     private static Character nonRepetingCharFinder(String input) {
 
+        if(input==null || input.isEmpty())
+            return Character.MIN_VALUE;
+
         Map<Character,Integer> map=new HashMap<>();
 
         for(Character c: input.trim().toCharArray()){
