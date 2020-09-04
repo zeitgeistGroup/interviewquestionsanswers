@@ -59,7 +59,11 @@ multithreading
 
 4.JoinExample : JoinExample
 
-5.InterThreadCommunication :OddEvenExample , OddEvenSpining
+5.InterThreadCommunication :OddEvenExample , Odd Even Spining
+
+Hashing
+
+1.non repeated character
 
 
 
