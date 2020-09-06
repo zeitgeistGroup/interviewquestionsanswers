@@ -45,6 +45,8 @@ DS
 
     Hight OF Binary Tree
 
+    Is Binary Tree
+
 6.Graph
 
     S1.GraphAdjacencyListImp.java: Basic implementation of graph with AdjacencyList
