@@ -11,6 +11,7 @@ public class Nqeen {
         Nqeen nqeen=new Nqeen();
         nqeen.nQueen(matrix,0,number);
 
+
     }
 
 
